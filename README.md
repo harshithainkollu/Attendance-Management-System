@@ -6,7 +6,7 @@ This project manages attendance for students using a smart system.
 ### Folder Status:
 - **Requirements/** → Status: **Completed**
 - **Design/** → Status: **Completed**
-- **Implementation/** → Status: **Completed**
+- **Implementation/** → Status: **Ongoing**
 - **Testing/** → Status: **Ongoing**
 - **Deployment/** → Status: **Pending**
 - **Maintenance/** → Status: **Ongoing**
